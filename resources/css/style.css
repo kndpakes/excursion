@@ -1,0 +1,36 @@
+*   {
+	background-color: black;
+	font-family: verdana, arial, san-serif;
+	}
+
+#banner {
+	color: white;
+	font-size: 50 px;
+	text-align: center;
+	font-weight: normal;
+	}
+
+.nav {
+	color: aquamarine;
+	font-size: 16px;
+	text-align: center;
+	}
+
+.tagline {
+	color: white;
+	font-size: 42 px;
+	font-weight: 300;
+	text-align: center;
+	}
+ 
+}
+.description {
+	color: gray;
+	font-size: 21 px;
+	text-align: center;
+	}
+	
+#copyright {
+	color: gray;
+	text-align: right;
+	}	
